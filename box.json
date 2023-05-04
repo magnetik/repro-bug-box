@@ -1,0 +1,8 @@
+{
+    "chmod": "0755",
+    "directories": ["src", "vendor", "bin"],
+    "main": "bin/binary",
+    "output": "/tmp/binary.phar",
+    "compression": "BZ2",
+    "force-autodiscovery": true
+}
